@@ -1,4 +1,3 @@
-# adventureworks-sales-dashboard-tableau
 # AdventureWorks Sales Performance Dashboard
 
 ## Overview
@@ -29,6 +28,6 @@ This project presents an interactive Tableau dashboard analyzing AdventureWorks 
 - Calculated Fields
 - Dashboard Design
 
-## Dashboard Preview
 
-(Add your screenshot here)
+
+
